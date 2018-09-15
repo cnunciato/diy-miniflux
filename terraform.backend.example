@@ -1,0 +1,3 @@
+bucket = "yourbucket-tfstate"
+key = "yourapp/miniflux.tfstate"
+region = "us-east-1"

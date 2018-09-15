@@ -1,0 +1,5 @@
+aws_ami = "ami-41e0b93b"
+aws_instance_type = "t2.nano"
+aws_private_key_name = "your-aws-key-name"
+aws_private_key_path = "~/path/to/your-aws-key-name.pem"
+aws_ssl_certificate_id = "arn:aws:acm:..."
